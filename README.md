@@ -1,5 +1,4 @@
-# 💪 Challenge
-On the route to React
+# 💪 Challenge: On the route to React
 
 
 #### Your goal is to:
